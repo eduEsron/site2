@@ -1,0 +1,38 @@
+.body{
+    background-color: #1e1e1f;
+    background-image: url("https://cutewallpaper.org/21/gif-black-background/Pin-on-Super-gif.gif");
+    background-size: cover;
+}
+
+.zapzop img{
+    position: absolute;
+    top: 44%;
+    left: 13%;
+    transition: transform 0.3s;
+}
+.zapzop img:hover{
+    transform: scale(1.2);
+}
+.insta img{
+    position: absolute;
+    top: 46.2%;
+    left: 41.8%;
+    transition: transform 0.3s;
+}
+.insta img:hover{
+    transform: scale(1.2);
+}
+.spotifi img{
+    position: absolute;
+    top:46%;
+    left:75%;
+    transition: transform 0.3s;
+}
+.spotifi img:hover{
+    transform: scale(1.2);
+}
+.texto{
+    text-align:center;
+    color: azure;
+    
+}
